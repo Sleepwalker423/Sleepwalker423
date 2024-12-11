@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sleepwalker423
-- 👀 I’m interested in software develpment, video games (ofcourse), nature, animals, and environmental manipulation. 
-- 🌱 I’m currently learning C and python from the Harvard CS50 Course on EdX.org
-- 💞️ I’m looking to collaborate on anything anyone is willing to let me help with to gain experience. Probono ofcourse :p
+- 👀 I’m interested in software development, video games (of course), nature, animals, and environmental manipulation. 
+- 🌱 I’m currently earning my Software Engineering degree with a minor in Systems Engineering at ERAU Daytona Beach, FL.
+- 💞️ I’m looking to collaborate on anything with anyone to gain experience.
 - 📫 How to reach me. You can message me at sleepwalker423@gmail.com.
 
 <!---
